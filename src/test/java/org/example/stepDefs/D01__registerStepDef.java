@@ -20,7 +20,7 @@ public class D01__registerStepDef {
 
     @Given("user go to register page")
     public void registration (){
-
+//any change
         reg.rigisterButton().click();
       //  driver.findElement(By.cssSelector("a[class=\"ico-register\"]")).click();
 
